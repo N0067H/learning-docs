@@ -22,7 +22,10 @@
 📚 Effective C++ - Scott Meyers<br>
 📚 Effective STL - Scott Meyers<br>
 📚 Optimized C++ - Kurt Guntheroth<br>
-> 모두 한국어 번역본이 있지만 영어 실력이 출중하다면 원서를 읽어보는 것도 나쁘지 않습니다.
+> 모두 한국어 번역본이 있지만 영어 실력이 출중하다면 원서를 읽어보는 것도 나쁘지 않습니다.<br>
+
+📃 [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)<br>
+> CppKorea 에서 C++ Core guidelines 의 [한국어 번역본](http://cppkorea.github.io/CppCoreGuidelines)을 제공하고 있습니다.<br>
 
 ---
 
