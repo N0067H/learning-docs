@@ -20,7 +20,9 @@
 
 ### 심화
 📚 Effective C++ - Scott Meyers<br>
+📚 More Effective C++ - Scott Meyers<br>
 📚 Effective STL - Scott Meyers<br>
+📚 Effective Modern C++ - Scott Meyers<br>
 📚 Optimized C++ - Kurt Guntheroth<br>
 > 모두 한국어 번역본이 있지만 영어 실력이 출중하다면 원서를 읽어보는 것도 나쁘지 않습니다.<br>
 
